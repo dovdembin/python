@@ -2,11 +2,60 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ec9a2941-f206-465b-ac66-121211f9feda" name="Changes" comment="pyton">
-      <change afterPath="$PROJECT_DIR$/Using Lists, Dictionaries, Loops, Files, and Modules/Lists and Dictionaries/list/list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/API/notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm &amp; Data Structure/Fibonacci.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algorithm &amp; Data Structure/Prime Numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Language Reference/Expressions/Comparisons/Membership test operations/in.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NumPy/NumPy_Array.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The Python Language Reference/6. Expressions/6.12. Assignment expressions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The Python Standard Library/Built-in Functions/zip.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/definitions" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pandas/pandas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/playground.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/3. An Informal Introduction to Python/3.1. Using Python as a Calculator/3.1.1. Numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/3. An Informal Introduction to Python/3.1. Using Python as a Calculator/3.1.2. Strings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/3. An Informal Introduction to Python/3.1. Using Python as a Calculator/3.1.3. Lists.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/3. An Informal Introduction to Python/3.2. First Steps Towards Programming.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/4. More Control Flow Tools/4.1. if Statements/4.1. if Statements.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/4. More Control Flow Tools/4.2. for Statements/4.2. for Statements.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/4. More Control Flow Tools/4.3. The range() Function/4.3. The range() Function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/4. More Control Flow Tools/4.4. break and continue Statements, and else Clauses on Loops/4.4. break and continue Statements, and else Clauses on Loops.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/4. More Control Flow Tools/4.5. pass Statements/4.5. pass Statements.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/4. More Control Flow Tools/4.6. match Statements/4.6. match Statements.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/4. More Control Flow Tools/4.7. Defining Functions/4.7. Defining Functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/4. More Control Flow Tools/4.8. More on Defining Functions/4.8. More on Defining Functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/4. More Control Flow Tools/4.8. More on Defining Functions/4.8.1. Default Argument Values/4.8.1. Default Argument Values.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/4. More Control Flow Tools/4.8. More on Defining Functions/4.8.2. Keyword Arguments/4.8.2. Keyword Arguments.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/4. More Control Flow Tools/4.8. More on Defining Functions/4.8.3. Special parameters/4.8.3.1. Positional-or-Keyword Arguments.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/4. More Control Flow Tools/4.8. More on Defining Functions/4.8.3. Special parameters/4.8.3.2. Positional-Only Parameters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/4. More Control Flow Tools/4.8. More on Defining Functions/4.8.3. Special parameters/4.8.3.3. Keyword-Only Arguments.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/4. More Control Flow Tools/4.8. More on Defining Functions/4.8.3. Special parameters/4.8.3.4. Function Examples.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/4. More Control Flow Tools/4.8. More on Defining Functions/4.8.3. Special parameters/4.8.3.5. Recap.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/4. More Control Flow Tools/4.8. More on Defining Functions/4.8.4. Arbitrary Argument Lists/4.8.4. Arbitrary Argument Lists.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/4. More Control Flow Tools/4.8. More on Defining Functions/4.8.5. Unpacking Argument Lists/4.8.5. Unpacking Argument Lists.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/4. More Control Flow Tools/4.8. More on Defining Functions/4.8.6. Lambda Expressions/4.8.6. Lambda Expressions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/4. More Control Flow Tools/4.8. More on Defining Functions/4.8.7. Documentation Strings/4.8.7. Documentation Strings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/4. More Control Flow Tools/4.8. More on Defining Functions/4.8.8. Function Annotations/4.8.8. Function Annotations.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/5. Data Structures/5.1. More on Lists/5.1. More on Lists.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/5. Data Structures/5.1. More on Lists/5.1.1. Using Lists as Stacks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/5. Data Structures/5.1. More on Lists/5.1.2. Using Lists as Queues.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/5. Data Structures/5.1. More on Lists/5.1.3. List Comprehensions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/5. Data Structures/5.1. More on Lists/5.1.4. Nested List Comprehensions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/5. Data Structures/5.1. More on Lists/6.extend_vs_append.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/5. Data Structures/5.2. The del statement/5.2. The del statement.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/5. Data Structures/5.3. Tuples and Sequences/5.3. Tuples and Sequences.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/5. Data Structures/5.4. Sets/5.4. Sets.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/5. Data Structures/5.5. Dictionaries/5.5. Dictionaries.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/5. Data Structures/5.5. Dictionaries/5.5.1 del item in dictionary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/5. Data Structures/5.6. Looping Techniques/5.6. Looping Techniques.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/5. Data Structures/5.7. More on Conditions/5.7. More on Conditions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/5. Data Structures/5.8. Comparing Sequences and Other Types/5.8. Comparing Sequences and Other Types.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dictionaries/Dictionary in List.py" beforeDir="false" afterPath="$PROJECT_DIR$/Using Lists, Dictionaries, Loops, Files, and Modules/Lists and Dictionaries/Dictionaries/Dictionary in List.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dictionaries/dictionary.py" beforeDir="false" afterPath="$PROJECT_DIR$/Using Lists, Dictionaries, Loops, Files, and Modules/Lists and Dictionaries/Dictionaries/dictionary.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/List/List.py" beforeDir="false" afterPath="$PROJECT_DIR$/Using Lists, Dictionaries, Loops, Files, and Modules/Lists and Dictionaries/Dictionaries/Dictionaries.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Using Lists, Dictionaries, Loops, Files, and Modules/Lists and Dictionaries/Dictionaries/Dictionaries.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lists, Dictionaries, Loops, Files, and Modules/Lists and Dictionaries/Dictionaries/Dictionaries.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Using Lists, Dictionaries, Loops, Files, and Modules/Lists and Dictionaries/Dictionaries/Dictionary in List.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lists, Dictionaries, Loops, Files, and Modules/Lists and Dictionaries/combining/Dictionary in List.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Using Lists, Dictionaries, Loops, Files, and Modules/Lists and Dictionaries/Dictionaries/dictionary.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lists, Dictionaries, Loops, Files, and Modules/Lists and Dictionaries/Dictionaries/dictionary.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Using Lists, Dictionaries, Loops, Files, and Modules/Lists and Dictionaries/list/list.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/functions/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/4. More Control Flow Tools/4.7. Defining Functions/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +65,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
         <option value="Python Script" />
       </list>
     </option>
@@ -27,23 +77,31 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="24rzMdh66S9MoD1PKEBDPGG34ZX" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\dov_dembin\PycharmProjects\mainPython\Using Lists, Dictionaries, Loops, Files, and Modules\Lists and Dictionaries" />
+      <recent name="C:\Users\dov_dembin\PycharmProjects\mainPython\python\4. More Control Flow Tools\4.8. More on Defining Functions" />
+      <recent name="C:\Users\dov_dembin\PycharmProjects\mainPython\python\4. More Control Flow Tools\4.7. Defining Functions" />
+      <recent name="C:\Users\dov_dembin\PycharmProjects\mainPython\python\4. More Control Flow Tools\4.6. match Statements" />
+      <recent name="C:\Users\dov_dembin\PycharmProjects\mainPython\python\4. More Control Flow Tools\4.5. pass Statements" />
+      <recent name="C:\Users\dov_dembin\PycharmProjects\mainPython\python\4. More Control Flow Tools\4.4. break and continue Statements, and else Clauses on Loops" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Dictionaries">
-    <configuration name="Dictionaries" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.3.2. First Steps Towards Programming">
+    <configuration name="3.2. First Steps Towards Programming" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="mainPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -51,11 +109,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Using Lists, Dictionaries, Loops, Files, and Modules/Lists and Dictionaries/Dictionaries" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/3. An Informal Introduction to Python" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Using Lists, Dictionaries, Loops, Files, and Modules/Lists and Dictionaries/Dictionaries/Dictionaries.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/3. An Informal Introduction to Python/3.2. First Steps Towards Programming.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -64,7 +122,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="list" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="5.1.4. Nested List Comprehensions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="mainPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -72,11 +130,116 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Using Lists, Dictionaries, Loops, Files, and Modules/Lists and Dictionaries/list" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Algorithm &amp; Data Structure/Data Structures/more on lists" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Using Lists, Dictionaries, Loops, Files, and Modules/Lists and Dictionaries/list/list.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Algorithm &amp; Data Structure/Data Structures/more on lists/5.1.4. Nested List Comprehensions.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="5.4. Sets (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="mainPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Algorithm &amp; Data Structure/Data Structures/5.4. Sets" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Algorithm &amp; Data Structure/Data Structures/5.4. Sets/5.4. Sets.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="5.4. Sets" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="mainPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Algorithm &amp; Data Structure/Data Structures" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\dov_dembin\PycharmProjects\mainPython\Algorithm &amp; Data Structure\Data Structures\5.4. Sets\5.4. Sets.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="6.extend_vs_append" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="mainPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Algorithm &amp; Data Structure/Data Structures/more on lists" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Algorithm &amp; Data Structure/Data Structures/more on lists/6.extend_vs_append.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="data_structures" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="mainPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Algorithm &amp; Data Structure" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\dov_dembin\PycharmProjects\mainPython\Algorithm &amp; Data Structure\Data Structures\data_structures.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="lists" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="mainPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Algorithm &amp; Data Structure/Data Structures" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\dov_dembin\PycharmProjects\mainPython\Algorithm &amp; Data Structure\Data Structures\more on lists\lists.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -108,8 +271,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Dictionaries" />
-        <item itemvalue="Python.list" />
+        <item itemvalue="Python.3.2. First Steps Towards Programming" />
+        <item itemvalue="Python.5.4. Sets (1)" />
+        <item itemvalue="Python.5.4. Sets" />
+        <item itemvalue="Python.6.extend_vs_append" />
+        <item itemvalue="Python.5.1.4. Nested List Comprehensions" />
       </list>
     </recent_temporary>
   </component>
@@ -129,7 +295,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651089776735</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="pyton">
+      <created>1651093847315</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1651093847315</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

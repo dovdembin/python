@@ -1,0 +1,3 @@
+position parameter : parameter is passed func("dov")
+keyword parameter : parameter is passed func(name="dov")
+Keyword parameters are also referred to as named parameters
