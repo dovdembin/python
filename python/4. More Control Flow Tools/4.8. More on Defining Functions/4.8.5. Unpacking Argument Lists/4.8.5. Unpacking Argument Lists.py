@@ -12,7 +12,7 @@ unpacked1()
 
 
 def unpacked2(**kwargs):
-    print(kwargs)
+    print(kwargs)  # {'key1': 'value1', 'key2': 'value2'}
 
 
 unpacked2(**{"key1": "value1", "key2": "value2"})

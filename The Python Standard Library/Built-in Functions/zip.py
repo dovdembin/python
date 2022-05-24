@@ -10,7 +10,7 @@ print(list(zip(range(3), ['fee', 'fi', 'fo', 'fum'])))  # [(0, 'fee'), (1, 'fi')
 # list(zip(range(3), ['fee', 'fi', 'fo', 'fum'], strict=True)) raise an error
 
 
-list(zip(('a', 'b', 'c'), (1, 2, 3, 8)))
+print(list(zip(('a', 'b', 'c'), (1, 2, 3, 8))))
 
 
 def tips_and_triks():
