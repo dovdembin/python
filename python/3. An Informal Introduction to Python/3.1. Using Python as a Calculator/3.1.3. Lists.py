@@ -1,9 +1,9 @@
 def examples():
-    res = squares = [1, 4, 9, 16, 25]
-    res = squares[0]  # indexing returns the item
-    res = squares[-1]  # 25
-    res = squares[-3:]  # [9, 16, 25]
-    res = squares + [36, 49, 64, 81, 100]
+    squares = [1, 4, 9, 16, 25]
+    print(squares[0])
+    print(squares[-1])
+    print(squares[-3:])
+    print(squares + [36, 49, 64, 81, 100])
 
     # ======== change content =================
     cubes = [1, 8, 27, 65, 125]
@@ -93,4 +93,4 @@ def list_filled_with_range():
 
 
 if __name__ == "__main__":
-    append_to_list()
+    examples()

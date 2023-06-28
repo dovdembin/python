@@ -1,126 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ec9a2941-f206-465b-ac66-121211f9feda" name="Changes" comment="pyton">
-      <change afterPath="$PROJECT_DIR$/.idea/csv-plugin.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algorithm &amp; Data Structure/basic bisection/basic bisection algorithm.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dataclasses/dataclasses.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/10. Brief Tour of the Standard Library/10.1. Operating System Interface (os).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/10. Brief Tour of the Standard Library/10.10. Performance Measurement.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/10. Brief Tour of the Standard Library/10.11. Quality Control.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/10. Brief Tour of the Standard Library/10.11.1 unittest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/10. Brief Tour of the Standard Library/10.12. Batteries Included.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/10. Brief Tour of the Standard Library/10.2. File Wildcards.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/10. Brief Tour of the Standard Library/10.3. Command Line Arguments.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/10. Brief Tour of the Standard Library/10.4. Error Output Redirection and Program Termination.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/10. Brief Tour of the Standard Library/10.5. String Pattern Matching.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/10. Brief Tour of the Standard Library/10.6. Mathematics.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/10. Brief Tour of the Standard Library/10.7. Internet Access.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/10. Brief Tour of the Standard Library/10.8. Dates and Times.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/10. Brief Tour of the Standard Library/10.9. Data Compression.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/10. Brief Tour of the Standard Library/files_for_os_example_source/my.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/11. Brief Tour of the Standard Library — Part II/11.1. Output Formatting.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/11. Brief Tour of the Standard Library — Part II/11.2. Templating.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/11. Brief Tour of the Standard Library — Part II/11.3. Working with Binary Data Record Layouts.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/11. Brief Tour of the Standard Library — Part II/11.4. Multi-threading/11.4. Multi-threading.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/11. Brief Tour of the Standard Library — Part II/11.4. Multi-threading/youtube/Corey Schafer/1. Calling External Commands Using the Subprocess Module/Subprocess Module.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/11. Brief Tour of the Standard Library — Part II/11.4. Multi-threading/youtube/Corey Schafer/1. Calling External Commands Using the Subprocess Module/output.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/11. Brief Tour of the Standard Library — Part II/11.5. Logging.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/11. Brief Tour of the Standard Library — Part II/11.6. Weak References.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/11. Brief Tour of the Standard Library — Part II/11.7. Tools for Working with Lists.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/11. Brief Tour of the Standard Library — Part II/11.8. Decimal Floating Point Arithmetic.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/11. Brief Tour of the Standard Library — Part II/mydata.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/6. Modules/6. Modules.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/6. Modules/6.1. More on Modules/6.1. More on Modules.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/6. Modules/6.1. More on Modules/6.1.1. Executing modules as scripts.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/6. Modules/6.1. More on Modules/6.1.2. The Module Search Path.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/6. Modules/6.1. More on Modules/6.1.3. “Compiled” Python files.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/6. Modules/6.1. More on Modules/fibo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/6. Modules/6.2. Standard Modules/6.2. Standard Modules.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/6. Modules/6.3. The dir() Function/6.3. The dir() Function.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/6. Modules/6.3. The dir() Function/fibo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/6. Modules/6.4. Packages/6.4. Packages.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/6. Modules/6.4. Packages/6.4.1. Importing asterix From a Package.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/6. Modules/6.4. Packages/6.4.2. Intra-package References.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/6. Modules/6.4. Packages/6.4.3. Packages in Multiple Directories.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/6. Modules/6.4. Packages/fibo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/6. Modules/fibo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/6. Modules/namer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/7. Input and Output/7.1. Fancier Output Formatting/7.1. Fancier Output Formatting.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/7. Input and Output/7.1. Fancier Output Formatting/7.1.1. Formatted String Literals.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/7. Input and Output/7.1. Fancier Output Formatting/7.1.2. The String format() Method.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/7. Input and Output/7.1. Fancier Output Formatting/7.1.3. Manual String Formatting.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/7. Input and Output/7.1. Fancier Output Formatting/7.1.4. Old string formatting.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/7. Input and Output/7.2. Reading and Writing Files/4forces.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/7. Input and Output/7.2. Reading and Writing Files/7.2.1. Methods of File Objects.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/7. Input and Output/7.2. Reading and Writing Files/7.2.2. Saving structured data with json.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/7. Input and Output/7.2. Reading and Writing Files/in.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/7. Input and Output/7.2. Reading and Writing Files/out.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/7. Input and Output/7.2. Reading and Writing Files/workfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/8. Errors and Exceptions,/8.1. Syntax Errors.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/8. Errors and Exceptions,/8.2. Exceptions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/8. Errors and Exceptions,/8.3. Handling Exceptions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/8. Errors and Exceptions,/8.4. Raising Exceptions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/8. Errors and Exceptions,/8.5. Exception Chaining.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/8. Errors and Exceptions,/8.6. User-defined Exceptions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/8. Errors and Exceptions,/8.7. Defining Clean-up Actions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/8. Errors and Exceptions,/8.8. Predefined Clean-up Actions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/8. Errors and Exceptions,/out.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/9. Classes/1. from youtube/OOP/Object Oriented Programming with Python - Full Course for Beginners/1. Getting Started with Classes/1. Getting Started with Classes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/9. Classes/1. from youtube/OOP/Object Oriented Programming with Python - Full Course for Beginners/2. Constructor, __init__/2. Constructor, __init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/9. Classes/1. from youtube/OOP/Object Oriented Programming with Python - Full Course for Beginners/3. Class vs Static Methods/3. Class vs Static Methods.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/9. Classes/1. from youtube/OOP/Object Oriented Programming with Python - Full Course for Beginners/3. Class vs Static Methods/3.1. Class vs Static Methods.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/9. Classes/1. from youtube/OOP/Object Oriented Programming with Python - Full Course for Beginners/3. Class vs Static Methods/3.2. differnce between Classmethod vs staticmethods.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/9. Classes/1. from youtube/OOP/Object Oriented Programming with Python - Full Course for Beginners/4. Inheritance/4. Inheritance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/9. Classes/1. from youtube/OOP/Object Oriented Programming with Python - Full Course for Beginners/4. Inheritance/items.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/9. Classes/1. from youtube/OOP/Object Oriented Programming with Python - Full Course for Beginners/5. getters and setters(Encapsulation)/5. getters and setters(Encapsulation).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/9. Classes/1. from youtube/OOP/Object Oriented Programming with Python - Full Course for Beginners/5. getters and setters(Encapsulation)/item.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/9. Classes/1. from youtube/OOP/Object Oriented Programming with Python - Full Course for Beginners/5. getters and setters(Encapsulation)/items.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/9. Classes/1. from youtube/OOP/Object Oriented Programming with Python - Full Course for Beginners/5. getters and setters(Encapsulation)/phone.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/9. Classes/1. from youtube/OOP/Object Oriented Programming with Python - Full Course for Beginners/6. OOP principles/5. getters and setters(Encapsulation).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/9. Classes/1. from youtube/OOP/Object Oriented Programming with Python - Full Course for Beginners/6. OOP principles/item.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/9. Classes/1. from youtube/OOP/Object Oriented Programming with Python - Full Course for Beginners/6. OOP principles/items.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/9. Classes/1. from youtube/OOP/Object Oriented Programming with Python - Full Course for Beginners/6. OOP principles/keyboard.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/9. Classes/1. from youtube/OOP/Object Oriented Programming with Python - Full Course for Beginners/6. OOP principles/phone.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/9. Classes/1. from youtube/OOP/Object-oriented Programming in Python 101/classes_object.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/9. Classes/1. from youtube/OOP/polymorphism/1. polymorphism very simple example/1. example why we need.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/9. Classes/1. from youtube/OOP/polymorphism/1. polymorphism very simple example/2. example how it work.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/9. Classes/1. from youtube/OOP/polymorphism/2. Inheritance &amp; Polymorphism/1. simple inheritance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/9. Classes/1. from youtube/OOP/polymorphism/2. Inheritance &amp; Polymorphism/2. multipe inheritance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/9. Classes/1. from youtube/OOP/polymorphism/2. Inheritance &amp; Polymorphism/3. polymorphism.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/9. Classes/1. from youtube/OOP/polymorphism/3. Polymorphism, Abstract/1. two objects.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/9. Classes/1. from youtube/OOP/polymorphism/3. Polymorphism, Abstract/2. inheritance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/9. Classes/1. from youtube/OOP/polymorphism/3. Polymorphism, Abstract/abstract methods.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/9. Classes/2. from internet/classes/Instance, Class, and Static Methods/1. classmethod_staticmethod.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/9. Classes/2. from internet/classes/Instance, Class, and Static Methods/2. classmethod.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/9. Classes/2. from internet/classes/Instance, Class, and Static Methods/3. staticmethod.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/9. Classes/9.1. A Word About Names and Objects/9.1. A Word About Names and Objects.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/9. Classes/9.10. Generator Expressions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/9. Classes/9.2. Python Scopes and Namespaces/9.2. Python Scopes and Namespaces.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/9. Classes/9.2. Python Scopes and Namespaces/9.2.1. Scopes and Namespaces Example.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/9. Classes/9.2. Python Scopes and Namespaces/9.2.2. simple Scopes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/9. Classes/9.2. Python Scopes and Namespaces/9.2.3. global Scopes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/9. Classes/9.2. Python Scopes and Namespaces/9.2.3.1. global Scopes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/9. Classes/9.2. Python Scopes and Namespaces/9.2.4. nonlocal Scopes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/9. Classes/9.3. A First Look at Classes/9.3. A First Look at Classes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/9. Classes/9.3. A First Look at Classes/9.3.1. Class Definition Syntax.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/9. Classes/9.3. A First Look at Classes/9.3.2. Class Objects.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/9. Classes/9.3. A First Look at Classes/9.3.3. Instance Objects.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/9. Classes/9.3. A First Look at Classes/9.3.4. Method Objects.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/9. Classes/9.3. A First Look at Classes/9.3.5. Class and Instance Variables.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/9. Classes/9.3. A First Look at Classes/9.3.5.1. Class and Instance Variables.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/9. Classes/9.4. Random Remarks/9.4. Random Remarks.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/9. Classes/9.5. Inheritance/9.5. Inheritance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/9. Classes/9.5. Inheritance/9.5.1. Multiple Inheritance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/9. Classes/9.6. Private Variables.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/9. Classes/9.7. Odds and Ends.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/9. Classes/9.8. Iterators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/python/9. Classes/9.9. Generators.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/The Python Standard Library/Built-in Functions/zip.py" beforeDir="false" afterPath="$PROJECT_DIR$/The Python Standard Library/Built-in Functions/zip.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/4. More Control Flow Tools/4.8. More on Defining Functions/4.8.5. Unpacking Argument Lists/4.8.5. Unpacking Argument Lists.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/4. More Control Flow Tools/4.8. More on Defining Functions/4.8.5. Unpacking Argument Lists/4.8.5. Unpacking Argument Lists.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/5. Data Structures/5.4. Sets/5.4. Sets.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/5. Data Structures/5.4. Sets/5.4. Sets.py" afterDir="false" />
-    </list>
+    <list default="true" id="ec9a2941-f206-465b-ac66-121211f9feda" name="Changes" comment="pyton" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -156,14 +37,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/python/11. Brief Tour of the Standard Library — Part II/11.4. Multi-threading/youtube/Calling External Commands Using the Subprocess Module" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
-  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Dov_Dembin/PycharmProjects/python&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\dov_dembin\PycharmProjects\mainPython\python\11. Brief Tour of the Standard Library — Part II\11.4. Multi-threading\youtube\Calling External Commands Using the Subprocess Module" />
@@ -180,7 +62,7 @@
       <recent name="C:\Users\dov_dembin\PycharmProjects\mainPython\python\10. Brief Tour of the Standard Library" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.1. Calling External Commands Using the Subprocess Module (1)">
+  <component name="RunManager" selected="Python.main">
     <configuration name="3. Calling External Commands Using the Subprocess Module" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="mainPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -193,6 +75,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/11. Brief Tour of the Standard Library — Part II/11.4. Multi-threading/youtube/Calling External Commands Using the Subprocess Module/3. Calling External Commands Using the Subprocess Module.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -214,6 +97,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/11. Brief Tour of the Standard Library — Part II/11.4. Multi-threading/youtube/Calling External Commands Using the Subprocess Module/4. redirect to file.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -235,6 +119,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="C:\Users\dov_dembin\PycharmProjects\mainPython\python\11. Brief Tour of the Standard Library — Part II\11.4. Multi-threading\youtube\Calling External Commands Using the Subprocess Module\4. redirect to file.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -256,6 +141,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/11. Brief Tour of the Standard Library — Part II/11.4. Multi-threading/youtube/Calling External Commands Using the Subprocess Module/5. Calling External Commands Using the Subprocess Module.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -277,6 +163,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="C:\Users\dov_dembin\PycharmProjects\mainPython\python\11. Brief Tour of the Standard Library — Part II\11.4. Multi-threading\youtube\Corey Schafer\1. Calling External Commands Using the Subprocess Module\Subprocess Module.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -298,6 +185,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -309,7 +197,6 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.1. Calling External Commands Using the Subprocess Module (1)" />
         <item itemvalue="Python.4. redirect to file (1)" />
         <item itemvalue="Python.3. Calling External Commands Using the Subprocess Module" />
         <item itemvalue="Python.5. Calling External Commands Using the Subprocess Module" />
@@ -325,6 +212,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1644403447135</updated>
+      <workItem from="1687954063777" duration="143000" />
     </task>
     <task id="LOCAL-00001" summary="pyton">
       <created>1651089776734</created>
@@ -342,6 +230,9 @@
     </task>
     <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
