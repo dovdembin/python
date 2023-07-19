@@ -1,4 +1,4 @@
-d"""
+"""
 
 1. C:\Users\dov_dembin\PycharmProjects>mkdir hello
 2. C:\Users\dov_dembin\PycharmProjects>cd hello

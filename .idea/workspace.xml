@@ -5,9 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ec9a2941-f206-465b-ac66-121211f9feda" name="Changes" comment="pyton">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Django/mysite.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TKinter/hello_tkinter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TKinter/playground.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Virtual Environments/2. venv.py" beforeDir="false" afterPath="$PROJECT_DIR$/Virtual Environments/2. venv.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lists, Dictionaries, Loops, Files, and Modules/Lists and Dictionaries/Dictionaries/dictionary.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lists, Dictionaries, Loops, Files, and Modules/Lists and Dictionaries/Dictionaries/dictionary.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Virtual Environments/1. venv django.py" beforeDir="false" afterPath="$PROJECT_DIR$/Virtual Environments/1. venv django.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python/4. More Control Flow Tools/4.8. More on Defining Functions/4.8.5. Unpacking Argument Lists/4.8.5. Unpacking Argument Lists.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/4. More Control Flow Tools/4.8. More on Defining Functions/4.8.5. Unpacking Argument Lists/4.8.5. Unpacking Argument Lists.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,19 +48,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Dov_Dembin/PycharmProjects/python&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/Dov_Dembin/PycharmProjects/100 days of code/day30",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\dov_dembin\PycharmProjects\mainPython\python\11. Brief Tour of the Standard Library — Part II\11.4. Multi-threading\youtube\Calling External Commands Using the Subprocess Module" />
@@ -73,8 +77,8 @@
       <recent name="C:\Users\dov_dembin\PycharmProjects\mainPython\python\10. Brief Tour of the Standard Library" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main">
-    <configuration name="3. Calling External Commands Using the Subprocess Module" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Dictionaries">
+    <configuration name="4.8.4. Arbitrary Argument Lists" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="mainPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -82,12 +86,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/11. Brief Tour of the Standard Library — Part II/11.4. Multi-threading/youtube/Calling External Commands Using the Subprocess Module" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/4. More Control Flow Tools/4.8. More on Defining Functions/4.8.4. Arbitrary Argument Lists" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/11. Brief Tour of the Standard Library — Part II/11.4. Multi-threading/youtube/Calling External Commands Using the Subprocess Module/3. Calling External Commands Using the Subprocess Module.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/4. More Control Flow Tools/4.8. More on Defining Functions/4.8.4. Arbitrary Argument Lists/4.8.4. Arbitrary Argument Lists.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -96,7 +100,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="4. redirect to file (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="4.8.5. Unpacking Argument Lists" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="mainPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -104,12 +108,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/11. Brief Tour of the Standard Library — Part II/11.4. Multi-threading/youtube/Calling External Commands Using the Subprocess Module" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/4. More Control Flow Tools/4.8. More on Defining Functions/4.8.5. Unpacking Argument Lists" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/11. Brief Tour of the Standard Library — Part II/11.4. Multi-threading/youtube/Calling External Commands Using the Subprocess Module/4. redirect to file.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/4. More Control Flow Tools/4.8. More on Defining Functions/4.8.5. Unpacking Argument Lists/4.8.5. Unpacking Argument Lists.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -118,7 +122,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="4. redirect to file" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="5.5. Dictionaries" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="mainPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -126,12 +130,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/11. Brief Tour of the Standard Library — Part II/11.4. Multi-threading/youtube/Calling External Commands Using the Subprocess Module" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/5. Data Structures/5.5. Dictionaries" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\Users\dov_dembin\PycharmProjects\mainPython\python\11. Brief Tour of the Standard Library — Part II\11.4. Multi-threading\youtube\Calling External Commands Using the Subprocess Module\4. redirect to file.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/5. Data Structures/5.5. Dictionaries/5.5. Dictionaries.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -140,7 +144,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="5. Calling External Commands Using the Subprocess Module" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Dictionaries" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="mainPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -148,12 +152,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/11. Brief Tour of the Standard Library — Part II/11.4. Multi-threading/youtube/Calling External Commands Using the Subprocess Module" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lists, Dictionaries, Loops, Files, and Modules/Lists and Dictionaries/Dictionaries" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/11. Brief Tour of the Standard Library — Part II/11.4. Multi-threading/youtube/Calling External Commands Using the Subprocess Module/5. Calling External Commands Using the Subprocess Module.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lists, Dictionaries, Loops, Files, and Modules/Lists and Dictionaries/Dictionaries/Dictionaries.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -162,7 +166,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Subprocess Module" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="dictionary" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="mainPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -170,12 +174,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/11. Brief Tour of the Standard Library — Part II/11.4. Multi-threading/youtube/Calling External Commands Using the Subprocess Module" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lists, Dictionaries, Loops, Files, and Modules/Lists and Dictionaries/Dictionaries" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\Users\dov_dembin\PycharmProjects\mainPython\python\11. Brief Tour of the Standard Library — Part II\11.4. Multi-threading\youtube\Corey Schafer\1. Calling External Commands Using the Subprocess Module\Subprocess Module.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lists, Dictionaries, Loops, Files, and Modules/Lists and Dictionaries/Dictionaries/dictionary.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -208,10 +212,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.4. redirect to file (1)" />
-        <item itemvalue="Python.3. Calling External Commands Using the Subprocess Module" />
-        <item itemvalue="Python.5. Calling External Commands Using the Subprocess Module" />
-        <item itemvalue="Python.4. redirect to file" />
+        <item itemvalue="Python.Dictionaries" />
+        <item itemvalue="Python.4.8.5. Unpacking Argument Lists" />
+        <item itemvalue="Python.5.5. Dictionaries" />
+        <item itemvalue="Python.4.8.4. Arbitrary Argument Lists" />
+        <item itemvalue="Python.dictionary" />
       </list>
     </recent_temporary>
   </component>
@@ -225,7 +230,33 @@
       <updated>1644403447135</updated>
       <workItem from="1687954063777" duration="143000" />
       <workItem from="1687958405161" duration="1711000" />
-      <workItem from="1688031635067" duration="379000" />
+      <workItem from="1688031635067" duration="2401000" />
+      <workItem from="1688376283760" duration="3403000" />
+      <workItem from="1688451422162" duration="1238000" />
+      <workItem from="1688480822054" duration="1631000" />
+      <workItem from="1688566343369" duration="19000" />
+      <workItem from="1688592828535" duration="1260000" />
+      <workItem from="1688638025752" duration="1407000" />
+      <workItem from="1688720685399" duration="1504000" />
+      <workItem from="1688893657676" duration="1196000" />
+      <workItem from="1688899666611" duration="600000" />
+      <workItem from="1688910835817" duration="17000" />
+      <workItem from="1688911131257" duration="27000" />
+      <workItem from="1688988244036" duration="1279000" />
+      <workItem from="1689056945991" duration="670000" />
+      <workItem from="1689066601825" duration="3156000" />
+      <workItem from="1689116707330" duration="666000" />
+      <workItem from="1689146284969" duration="1224000" />
+      <workItem from="1689254452552" duration="613000" />
+      <workItem from="1689258338009" duration="6000" />
+      <workItem from="1689328310695" duration="2428000" />
+      <workItem from="1689488822629" duration="14000" />
+      <workItem from="1689516823053" duration="2643000" />
+      <workItem from="1689580474160" duration="1434000" />
+      <workItem from="1689675845166" duration="18000" />
+      <workItem from="1689678462238" duration="1297000" />
+      <workItem from="1689688104077" duration="4741000" />
+      <workItem from="1689759785186" duration="1450000" />
     </task>
     <task id="LOCAL-00001" summary="pyton">
       <created>1651089776734</created>
@@ -255,7 +286,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687958722671</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="pyton">
+      <created>1688032033606</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1688032033606</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -275,5 +313,12 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="pyton" />
     <option name="LAST_COMMIT_MESSAGE" value="pyton" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/python$5_5__Dictionaries.coverage" NAME="5.5. Dictionaries Coverage Results" MODIFIED="1689536954988" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/5. Data Structures/5.5. Dictionaries" />
+    <SUITE FILE_PATH="coverage/python$4_8_5__Unpacking_Argument_Lists.coverage" NAME="4.8.5. Unpacking Argument Lists Coverage Results" MODIFIED="1689690524459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/4. More Control Flow Tools/4.8. More on Defining Functions/4.8.5. Unpacking Argument Lists" />
+    <SUITE FILE_PATH="coverage/python$dictionary.coverage" NAME="dictionary Coverage Results" MODIFIED="1689339823350" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lists, Dictionaries, Loops, Files, and Modules/Lists and Dictionaries/Dictionaries" />
+    <SUITE FILE_PATH="coverage/python$Dictionaries.coverage" NAME="Dictionaries Coverage Results" MODIFIED="1689760636944" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lists, Dictionaries, Loops, Files, and Modules/Lists and Dictionaries/Dictionaries" />
+    <SUITE FILE_PATH="coverage/python$4_8_4__Arbitrary_Argument_Lists.coverage" NAME="4.8.4. Arbitrary Argument Lists Coverage Results" MODIFIED="1689522156129" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/4. More Control Flow Tools/4.8. More on Defining Functions/4.8.4. Arbitrary Argument Lists" />
   </component>
 </project>

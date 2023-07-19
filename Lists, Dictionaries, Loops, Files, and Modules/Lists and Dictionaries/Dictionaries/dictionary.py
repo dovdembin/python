@@ -61,3 +61,15 @@ travel_log = [
   "total_visits": 5,
 },
 ]
+
+### Both dict() and {} will create an empty dictionary
+
+
+x = dict(name = "John", age = 36, country = "Norway")
+print(x)
+
+x2 = {"brand": "Ford", "model": "Mustang", "year": 1964}
+print(x2)
+
+
+

@@ -29,3 +29,14 @@ unpacked3(**d)
 
 
 # =======================================================
+# get will not raise error if not existing
+def unpacked4(**kw):
+    print(kw.get("koko"))
+
+unpacked4(koko="kuku")
+
+# [] will raise error if not existing
+def unpacked5(**kw):
+    print(kw["koko"])
+
+unpacked5(koko="kuku")
