@@ -5,13 +5,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ec9a2941-f206-465b-ac66-121211f9feda" name="Changes" comment="pyton">
-      <change afterPath="$PROJECT_DIR$/Django/mysite.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TKinter/hello_tkinter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TKinter/playground.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TKinter/youtube/Codemy.com/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TKinter/youtube/Codemy.com/Keyboard Event Binding With tKinter - Python Tkinter GUI Tutorial #44.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TKinter/youtube/Codemy.com/Menu Bars With tKinter - Python Tkinter GUI Tutorial #46.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TKinter/youtube/Codemy.com/Message Boxes with TKinter - Python Tkinter GUI Tutorial #13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TKinter/youtube/Codemy.com/Open Files Dialog Box - Python Tkinter GUI Tutorial #15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TKinter/youtube/Codemy.com/codemy.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TKinter/youtube/Codemy.com/template.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/The Python Standard Library/Data Types/enum/readme.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/books/Moore A. Python GUI Programming with Tkinter...2ed 2021/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/books/Moore A. Python GUI Programming with Tkinter...2ed 2021/.idea/Moore A. Python GUI Programming with Tkinter...2ed 2021.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/books/Moore A. Python GUI Programming with Tkinter...2ed 2021/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/books/Moore A. Python GUI Programming with Tkinter...2ed 2021/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/books/Moore A. Python GUI Programming with Tkinter...2ed 2021/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/books/Moore A. Python GUI Programming with Tkinter...2ed 2021/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/books/Moore A. Python GUI Programming with Tkinter...2ed 2021/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/books/Moore A. Python GUI Programming with Tkinter...2ed 2021/Chapter01/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/books/Moore A. Python GUI Programming with Tkinter...2ed 2021/Chapter03/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/books/Moore A. Python GUI Programming with Tkinter...2ed 2021/Chapter04/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/books/Moore A. Python GUI Programming with Tkinter...2ed 2021/playground.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/playground/playground.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/mainPython.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/mainPython.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lists, Dictionaries, Loops, Files, and Modules/Lists and Dictionaries/Dictionaries/dictionary.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lists, Dictionaries, Loops, Files, and Modules/Lists and Dictionaries/Dictionaries/dictionary.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Virtual Environments/1. venv django.py" beforeDir="false" afterPath="$PROJECT_DIR$/Virtual Environments/1. venv django.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/python/4. More Control Flow Tools/4.8. More on Defining Functions/4.8.5. Unpacking Argument Lists/4.8.5. Unpacking Argument Lists.py" beforeDir="false" afterPath="$PROJECT_DIR$/python/4. More Control Flow Tools/4.8. More on Defining Functions/4.8.5. Unpacking Argument Lists/4.8.5. Unpacking Argument Lists.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/playground.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,33 +70,36 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Dov_Dembin/PycharmProjects/100 days of code/day30",
+    "last_opened_file_path": "C:/Users/Dov_Dembin/PycharmProjects/python/TKinter/youtube/Codemy.com",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Dov_Dembin\PycharmProjects\python\TKinter\youtube\Codemy.com" />
+      <recent name="C:\Users\Dov_Dembin\PycharmProjects\python\books\Moore A. Python GUI Programming with Tkinter...2ed 2021\Chapter04" />
       <recent name="C:\Users\dov_dembin\PycharmProjects\mainPython\python\11. Brief Tour of the Standard Library — Part II\11.4. Multi-threading\youtube\Calling External Commands Using the Subprocess Module" />
       <recent name="C:\Users\dov_dembin\PycharmProjects\mainPython\python\10. Brief Tour of the Standard Library\files_for_os_example_target" />
       <recent name="C:\Users\dov_dembin\PycharmProjects\mainPython\python\10. Brief Tour of the Standard Library" />
-      <recent name="C:\Users\dov_dembin\PycharmProjects\mainPython\python\9. Classes\1. from youtube\OOP\polymorphism\3. Polymorphism, Abstract" />
-      <recent name="C:\Users\dov_dembin\PycharmProjects\mainPython\python\9. Classes\1. from youtube\OOP\polymorphism\Inheritance &amp; Polymorphism" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Dov_Dembin\PycharmProjects\python\TKinter" />
+      <recent name="C:\Users\Dov_Dembin\PycharmProjects\python\playground" />
       <recent name="C:\Users\dov_dembin\PycharmProjects\mainPython\python\11. Brief Tour of the Standard Library — Part II\11.4. Multi-threading\youtube\Corey Schafer\1. Calling External Commands Using the Subprocess Module" />
       <recent name="C:\Users\dov_dembin\PycharmProjects\mainPython\python\11. Brief Tour of the Standard Library — Part II\11.4. Multi-threading\youtube\Calling External Commands Using the Subprocess Module" />
       <recent name="C:\Users\dov_dembin\PycharmProjects\mainPython\python\11. Brief Tour of the Standard Library — Part II\11.4. Multi-threading" />
-      <recent name="C:\Users\dov_dembin\PycharmProjects\mainPython\python\11. Brief Tour of the Standard Library — Part II" />
-      <recent name="C:\Users\dov_dembin\PycharmProjects\mainPython\python\10. Brief Tour of the Standard Library" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Dictionaries">
-    <configuration name="4.8.4. Arbitrary Argument Lists" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Open Files Dialog Box - Python Tkinter GUI Tutorial #15">
+    <configuration name="Keyboard Event Binding With tKinter - Python Tkinter GUI Tutorial #44" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="mainPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -86,12 +107,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/4. More Control Flow Tools/4.8. More on Defining Functions/4.8.4. Arbitrary Argument Lists" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TKinter/youtube/Codemy.com" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/4. More Control Flow Tools/4.8. More on Defining Functions/4.8.4. Arbitrary Argument Lists/4.8.4. Arbitrary Argument Lists.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TKinter/youtube/Codemy.com/Keyboard Event Binding With tKinter - Python Tkinter GUI Tutorial #44.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -100,7 +121,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="4.8.5. Unpacking Argument Lists" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Menu Bars With tKinter - Python Tkinter GUI Tutorial #46" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="mainPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -108,12 +129,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/4. More Control Flow Tools/4.8. More on Defining Functions/4.8.5. Unpacking Argument Lists" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TKinter/youtube/Codemy.com" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/4. More Control Flow Tools/4.8. More on Defining Functions/4.8.5. Unpacking Argument Lists/4.8.5. Unpacking Argument Lists.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TKinter/youtube/Codemy.com/Menu Bars With tKinter - Python Tkinter GUI Tutorial #46.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -122,7 +143,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="5.5. Dictionaries" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Message Boxes with TKinter - Python Tkinter GUI Tutorial #13" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="mainPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -130,12 +151,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python/5. Data Structures/5.5. Dictionaries" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TKinter/youtube/Codemy.com" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/5. Data Structures/5.5. Dictionaries/5.5. Dictionaries.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TKinter/youtube/Codemy.com/Message Boxes with TKinter - Python Tkinter GUI Tutorial #13.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -144,7 +165,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Dictionaries" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Open Files Dialog Box - Python Tkinter GUI Tutorial #15" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="mainPython" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -152,34 +173,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lists, Dictionaries, Loops, Files, and Modules/Lists and Dictionaries/Dictionaries" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TKinter/youtube/Codemy.com" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lists, Dictionaries, Loops, Files, and Modules/Lists and Dictionaries/Dictionaries/Dictionaries.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="dictionary" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="mainPython" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lists, Dictionaries, Loops, Files, and Modules/Lists and Dictionaries/Dictionaries" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lists, Dictionaries, Loops, Files, and Modules/Lists and Dictionaries/Dictionaries/dictionary.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TKinter/youtube/Codemy.com/Open Files Dialog Box - Python Tkinter GUI Tutorial #15.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -210,13 +209,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="playground (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="mainPython" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/playground" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/playground/playground.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Dictionaries" />
-        <item itemvalue="Python.4.8.5. Unpacking Argument Lists" />
-        <item itemvalue="Python.5.5. Dictionaries" />
-        <item itemvalue="Python.4.8.4. Arbitrary Argument Lists" />
-        <item itemvalue="Python.dictionary" />
+        <item itemvalue="Python.Open Files Dialog Box - Python Tkinter GUI Tutorial #15" />
+        <item itemvalue="Python.Message Boxes with TKinter - Python Tkinter GUI Tutorial #13" />
+        <item itemvalue="Python.Menu Bars With tKinter - Python Tkinter GUI Tutorial #46" />
+        <item itemvalue="Python.Keyboard Event Binding With tKinter - Python Tkinter GUI Tutorial #44" />
+        <item itemvalue="Python.playground (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -256,7 +277,9 @@
       <workItem from="1689675845166" duration="18000" />
       <workItem from="1689678462238" duration="1297000" />
       <workItem from="1689688104077" duration="4741000" />
-      <workItem from="1689759785186" duration="1450000" />
+      <workItem from="1689759785186" duration="9643000" />
+      <workItem from="1689842064950" duration="5178000" />
+      <workItem from="1689936013576" duration="8013000" />
     </task>
     <task id="LOCAL-00001" summary="pyton">
       <created>1651089776734</created>
@@ -293,7 +316,14 @@
       <option name="project" value="LOCAL" />
       <updated>1688032033606</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="pyton">
+      <created>1689763198309</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1689763198309</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -314,11 +344,30 @@
     <MESSAGE value="pyton" />
     <option name="LAST_COMMIT_MESSAGE" value="pyton" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/python/4. More Control Flow Tools/4.8. More on Defining Functions/4.8.5. Unpacking Argument Lists/4.8.5. Unpacking Argument Lists.py</url>
+          <line>14</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/python$5_5__Dictionaries.coverage" NAME="5.5. Dictionaries Coverage Results" MODIFIED="1689536954988" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/5. Data Structures/5.5. Dictionaries" />
-    <SUITE FILE_PATH="coverage/python$4_8_5__Unpacking_Argument_Lists.coverage" NAME="4.8.5. Unpacking Argument Lists Coverage Results" MODIFIED="1689690524459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/4. More Control Flow Tools/4.8. More on Defining Functions/4.8.5. Unpacking Argument Lists" />
-    <SUITE FILE_PATH="coverage/python$dictionary.coverage" NAME="dictionary Coverage Results" MODIFIED="1689339823350" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lists, Dictionaries, Loops, Files, and Modules/Lists and Dictionaries/Dictionaries" />
+    <SUITE FILE_PATH="coverage/python$Message_Boxes_with_TKinter___Python_Tkinter_GUI_Tutorial__13.coverage" NAME="Message Boxes with TKinter - Python Tkinter GUI Tutorial #13 Coverage Results" MODIFIED="1689942617978" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TKinter/youtube/Codemy.com" />
+    <SUITE FILE_PATH="coverage/python$playground.coverage" NAME="playground Coverage Results" MODIFIED="1689866315366" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/books/Moore A. Python GUI Programming with Tkinter...2ed 2021" />
+    <SUITE FILE_PATH="coverage/python$readme__1_.coverage" NAME="readme (1) Coverage Results" MODIFIED="1689888696481" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/The Python Standard Library/Data Types/enum" />
+    <SUITE FILE_PATH="coverage/python$enum.coverage" NAME="enum Coverage Results" MODIFIED="1689887630061" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/The Python Standard Library/Data Types/enum" />
+    <SUITE FILE_PATH="coverage/python$Open_Files_Dialog_Box___Python_Tkinter_GUI_Tutorial__15.coverage" NAME="Open Files Dialog Box - Python Tkinter GUI Tutorial #15 Coverage Results" MODIFIED="1689945323745" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TKinter/youtube/Codemy.com" />
     <SUITE FILE_PATH="coverage/python$Dictionaries.coverage" NAME="Dictionaries Coverage Results" MODIFIED="1689760636944" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lists, Dictionaries, Loops, Files, and Modules/Lists and Dictionaries/Dictionaries" />
+    <SUITE FILE_PATH="coverage/python$5_5__Dictionaries.coverage" NAME="5.5. Dictionaries Coverage Results" MODIFIED="1689536954988" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/5. Data Structures/5.5. Dictionaries" />
+    <SUITE FILE_PATH="coverage/python$Keyboard_Event_Binding_With_tKinter___Python_Tkinter_GUI_Tutorial__44.coverage" NAME="Keyboard Event Binding With tKinter - Python Tkinter GUI Tutorial #44 Coverage Results" MODIFIED="1689937443076" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TKinter/youtube/Codemy.com" />
+    <SUITE FILE_PATH="coverage/python$4_8_5__Unpacking_Argument_Lists.coverage" NAME="4.8.5. Unpacking Argument Lists Coverage Results" MODIFIED="1689780133582" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/4. More Control Flow Tools/4.8. More on Defining Functions/4.8.5. Unpacking Argument Lists" />
+    <SUITE FILE_PATH="coverage/python$Menu_Bars_With_tKinter___Python_Tkinter_GUI_Tutorial__46.coverage" NAME="Menu Bars With tKinter - Python Tkinter GUI Tutorial #46 Coverage Results" MODIFIED="1689940083123" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TKinter/youtube/Codemy.com" />
+    <SUITE FILE_PATH="coverage/python$dictionary.coverage" NAME="dictionary Coverage Results" MODIFIED="1689339823350" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lists, Dictionaries, Loops, Files, and Modules/Lists and Dictionaries/Dictionaries" />
+    <SUITE FILE_PATH="coverage/python$playground__1_.coverage" NAME="playground (1) Coverage Results" MODIFIED="1689936709786" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/playground" />
     <SUITE FILE_PATH="coverage/python$4_8_4__Arbitrary_Argument_Lists.coverage" NAME="4.8.4. Arbitrary Argument Lists Coverage Results" MODIFIED="1689522156129" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python/4. More Control Flow Tools/4.8. More on Defining Functions/4.8.4. Arbitrary Argument Lists" />
   </component>
 </project>
